@@ -13,6 +13,7 @@ public class Proj2i {
 		Scanner scan = new Scanner(System.in);
 		
 		
+		//Ask for user's name
 		System.out.println("Enter your name :");
 		String nm=scan.nextLine();
 		
