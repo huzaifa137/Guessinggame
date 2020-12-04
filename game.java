@@ -47,6 +47,7 @@ public class Proj2i {
 			
 			System.out.println("\nEnter your lucky number ");
 			
+			//User enter's the number of his choice between 0-20
 			int m=scan.nextInt();
 			if(m==x)
 			{
