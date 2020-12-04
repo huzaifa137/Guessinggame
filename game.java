@@ -17,6 +17,8 @@ public class Proj2i {
 		String nm=scan.nextLine();
 		
 		int count=0;
+		
+		//We're initialing and finding the random number here.
 		int x = new Random().nextInt(20);
 		
 		char t1='y';
