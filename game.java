@@ -29,6 +29,7 @@ public class Proj2i {
 
 		System.out.println("\nDo you want to play a game ?");
 		
+		//Enter user's choice to play the game or not .
 		System.out.println("\nPress y or n to continue :-");
 		
 		char input=scan.next().charAt(0);
