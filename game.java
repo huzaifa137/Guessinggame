@@ -1,5 +1,7 @@
 package excellent;
 
+//A Game to pick the correct number from 0-20
+//The packages need in the program
 import java.util.Random;
 import java.util.Scanner;
 
@@ -38,7 +40,7 @@ public class Proj2i {
 			
 		do
 		{
-			System.out.println(x);
+			
 			System.out.println("\nEnter your lucky number ");
 			
 			int m=scan.nextInt();
